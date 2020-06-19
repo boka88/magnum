@@ -1,1 +1,1 @@
-CEVAP STR
+# CEVAP STR
